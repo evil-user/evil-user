@@ -8,3 +8,6 @@
 evil-user/evil-user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[<img align="left" alt="evil-user | codeforces " width="22px" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://example.com)
+[<img align="left" alt="evil-user | codeforces " width="22px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://example.com)
